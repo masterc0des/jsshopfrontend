@@ -1,0 +1,128 @@
+/* Startingpage */
+
+#p-starting {
+    margin-top: 10%;
+    margin-left: 10%;
+    font-size: 1.25rem;
+    margin-bottom: 5%;
+}
+
+#p-navigate {
+    margin-left: 10%;
+    font-size: 1.25rem;
+}
+
+/* Explore */
+
+.div-explore {
+    margin-top: 5%;
+}
+
+.div-product {
+
+}
+
+.div-product {
+    margin-left: 5%;
+}
+
+.img-product {
+    width: 340px;
+    height: 150px;
+}
+
+.p-price {
+    margin-top: 2.5%;
+}
+
+/* Contact */
+
+.div-contact {
+    margin-top: 5%;
+    margin-left: 12%;
+}
+
+#h1-contact {
+    margin-left: 23%;
+    margin-bottom: 10%;
+}
+
+/* About us */
+
+.div-aboutus {
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+#h1-aboutus {
+    margin-left: 15%;
+    margin-bottom: 10%;
+}
+
+.div-aboutus-content {
+    margin-left: 10%;
+}
+
+.paragraph {
+    margin-bottom: 2.5%;
+}
+
+#a-email {
+    margin-bottom: 2.5%;
+}
+
+#a-github {
+    margin-top: 2.5%;
+}
+
+#p-separator {
+    margin-top: 2.5%;
+}
+
+#a-github {
+    margin-bottom: 2.5%;
+}
+
+ul {
+    margin-top: 2.5%;
+}
+
+li {
+    margin-top: 2.5%;
+}
+
+/* Login */
+
+#div-login {
+    margin-top: 5%;
+    margin-left: 12%;
+}
+
+#h1-login {
+    margin-left: 28.5%;
+    margin-bottom: 10%;
+}
+
+#login-form {
+    margin-left: 19%;
+}
+
+.label {
+    font-size: 1.5rem;
+}
+
+/* Register */
+
+#div-register {
+    margin-top: 5%;
+    margin-left: 12%;
+}
+
+#h1-register {
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+
+#register-form {
+    margin-left: 19%;
+}
